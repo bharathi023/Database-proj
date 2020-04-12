@@ -1,1 +1,1 @@
-#Output images for the sql code
+# Output images for the sql code
